@@ -29,7 +29,7 @@
 .carousel-item img {
   object-fit: cover;
   filter: brightness(0.8);
-
+}
   .text-primary-custom {
     color: var(--primary-color) !important;
     font-weight: 700;
@@ -89,7 +89,7 @@
   }
 
   #contacto {
-    background-color: lab(43.63% -42.89 32.1) !important;
+    background-color: rgb(14, 130, 52) !important;
   }
 
   #contacto .text-white-50 {
@@ -98,6 +98,6 @@
 
   #contacto .card-body {
     border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border: 1px solid rgba(19, 81, 40, 0.689) !important;
   }
-}
+
